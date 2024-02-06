@@ -1,0 +1,48 @@
+body {
+  border: solid;
+  border-color: red;
+  background-color: darkolivegreen;
+  font-size: 15px;
+}
+
+ol {
+    list-style-type: lower-greek;
+    color: lightpink;
+}
+
+
+#robert {
+  font-size: 1.5em;
+}
+
+#robert ul {
+  list-style-type: circle;
+}
+
+ul {
+  list-style-type: upper-roman;
+}
+
+#des {
+  color: lavender;
+  font-size: medium;
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+}
+
+#walter {
+  font-size: 5vh;
+  font-size: 7vw;
+  color: bisque;
+  font-family: cursive;
+  text-decoration: underline;
+  text-decoration-color: red;
+  text-decoration-skip-ink: auto;
+  
+
+}
+
+
+
+
+
