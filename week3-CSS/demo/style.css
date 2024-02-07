@@ -42,6 +42,40 @@ ul {
 
 }
 
+#louis {
+  border: solid green;
+  width: 50%;
+}
+#louis>strong {
+
+    color: purple;
+}
+
+strong {
+  border: dashed pink;
+}
+
+#robert strong {
+  color: red;
+}
+
+#des>strong  {
+  color: blueviolet
+  
+}
+
+#nick>strong {
+  color: orange;
+  border: solid blue
+}
+
+#des {
+  border: dotted green;
+  margin: 20px;
+}
+
+
+
 
 
 
