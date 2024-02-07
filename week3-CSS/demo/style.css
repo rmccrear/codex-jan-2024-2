@@ -10,6 +10,9 @@ ol {
     color: lightpink;
 }
 
+article p {
+  color: gray;
+}
 
 #robert {
   font-size: 1.5em;
